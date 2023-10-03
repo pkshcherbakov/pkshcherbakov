@@ -9,9 +9,10 @@
 | [ListNet](https://github.com/pkshcherbakov/Data_Science/blob/main/LTR/ListNet_MSRANK.ipynb) | PyTorch, Optuna| MSrank | The listwise approach of ListNet architecture allows to use the loss function that is calculated over the entire set of documents|0.5137|
                                                                                                                 
 <h2>RL (Reinforcement learning)</h2>
+
 | Model                                                                                                                   | Stack      | Dataset  | Task description                                            | Mean reward |
-|-------------------------------------------------------------------------------------------------------------------------|------------|----------|-------------------------------------------------------------|-------------|
-| [CrossEntropy](https://github.com/pkshcherbakov/Data_Science/blob/main/RL/CrossEntropy.ipynb)                           | Gym, Optuna| Taxi-v3  | CrossEntropy approach for taxi                              | 7.93        |
+|:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:-----------------------------------------------------------:|:-----------:|
+| [CrossEntropy](https://github.com/pkshcherbakov/Data_Science/blob/main/RL/CrossEntropy.ipynb)                           | Gym, Optuna| Taxi-v3  | It is required to train a taxi to pick up a passenger and then take him to the destination point                             | 7.93        |
 
 <!---
 pkshcherbakov/pkshcherbakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
