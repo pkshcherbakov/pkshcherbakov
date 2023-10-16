@@ -14,6 +14,17 @@
 |:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:-----------------------------------------------------------:|:-----------:|
 | [CrossEntropy](https://github.com/pkshcherbakov/Data_Science/blob/main/RL/CrossEntropy.ipynb)                           | Gym, Optuna| Taxi-v3  | It is required to train a taxi to pick up a passenger and then take him to the destination point                             | 7.93        |
 
+# List of books
+## Python
+- Lutz, Mark. **Learning Python**. O'Reilly Media, Inc., 2013.
+
+## Data Science
+- Bhargava, Aditya. **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**. Simon and Schuster, 2016.
+- Trask, Andrew W. Grokking Deep Learning. Simon and Schuster, 2019.
+
+## Statistics
+- Савельев, Владимир. **Статистика и Котики**. Litres, 2018.
+
 <!---
 pkshcherbakov/pkshcherbakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
