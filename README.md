@@ -20,7 +20,7 @@
 
 ## Data Science
 - Bhargava, Aditya. **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**. Simon and Schuster, 2016.
-- Trask, Andrew W. Grokking Deep Learning. Simon and Schuster, 2019.
+- Trask, Andrew W. **Grokking Deep Learning**. Simon and Schuster, 2019.
 
 ## Statistics
 - Савельев, Владимир. **Статистика и Котики**. Litres, 2018.
