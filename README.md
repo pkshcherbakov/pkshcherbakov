@@ -34,6 +34,7 @@
 ## Data Science
 - Bhargava, Aditya. **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**. Simon and Schuster, 2016.
 - Trask, Andrew W. **Grokking Deep Learning**. Simon and Schuster, 2019.
+- Avila, Julian, and Trent Hauck. **Scikit-learn cookbook: over 80 recipes for machine learning in Python with scikit-learn**. Packt Publishing Ltd, 2017.
 
 ## Statistics
 - Савельев, Владимир. **Статистика и Котики**. Litres, 2018.
