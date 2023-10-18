@@ -14,6 +14,19 @@
 |:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:-----------------------------------------------------------:|:-----------:|
 | [CrossEntropy](https://github.com/pkshcherbakov/Data_Science/blob/main/RL/CrossEntropy.ipynb)                           | Gym, Optuna| Taxi-v3  | It is required to train a taxi to pick up a passenger and then take him to the destination point                             | 7.93        |
 
+<h2>Deep Learning</h2>
+
+| Model                        | Stack      | Dataset  | Task description                                            | Accuracy |
+|:----------------------------:|:----------:|:--------:|:-----------------------------------------------------------:|:-----------:|
+| [CNN](https://github.com/pkshcherbakov/Data_Science/blob/main/Audio%20processing/ESC50.ipynb)  | librosa, keras| ESC-50  | The goal of the work was to classify various sounds (for example, frog, wind, footsteps, etc.) according to an audio track  | 94.9%        |
+
+<h2>NLP</h2>
+
+| Model                        | Stack      | Dataset  | Task description                                            | Metrics |
+|:----------------------------:|:----------:|:--------:|:-----------------------------------------------------------:|:-----------:|
+| [NER](https://github.com/pkshcherbakov/Data_Science/blob/main/NLP/Named%20entity%20recognition.ipynb)  | yargy, natasha| custom  | NER task. The purpose of this task is to extract from the machine recording of the dialogue between the operator and the client phrases corresponding to greetings, farewells and other communication patterns  | -       |
+
+
 # List of books
 ## Python
 - Lutz, Mark. **Learning Python**. O'Reilly Media, Inc., 2013.
