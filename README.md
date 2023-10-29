@@ -36,6 +36,7 @@
 - Trask, Andrew W. **Grokking Deep Learning**. Simon and Schuster, 2019.
 - Avila, Julian, and Trent Hauck. **Scikit-learn cookbook: over 80 recipes for machine learning in Python with scikit-learn**. Packt Publishing Ltd, 2017.
 - Grus, Joel. **Data science from scratch: first principles with python**. O'Reilly Media, 2019.
+- Lakshmanan, Valliappa, Sara Robinson, and Michael Munn. **Machine learning design patterns**. O'Reilly Media, 2020.
 
 ## Statistics
 - Савельев, Владимир. **Статистика и Котики**. Litres, 2018.
