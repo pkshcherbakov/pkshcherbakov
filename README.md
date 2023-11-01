@@ -42,6 +42,9 @@
 - Савельев, Владимир. **Статистика и Котики**. Litres, 2018.
 - Bruce, Peter, Andrew Bruce, and Peter Gedeck. **Practical statistics for data scientists: 50+ essential concepts using R and Python**. O'Reilly Media, 2020.
 
+## Git
+- Gandhi, Raju. **Head First Git**. " O'Reilly Media, Inc.", 2022.
+
 <!---
 pkshcherbakov/pkshcherbakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
